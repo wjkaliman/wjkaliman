@@ -1,22 +1,44 @@
 # 👋 Hi, I'm Warren Judson
 
-Aspiring **Data Scientist** focused on practical, real-world projects using Python, machine learning, and data visualization. I'm currently building a portfolio in preparation for launching my career in Spring 2026.
+I'm an aspiring **Data Scientist** passionate about solving real-world problems using Python, machine learning, and data visualization. I'm currently building a portfolio of hands-on projects to prepare for a career in data science and machine learning in Spring 2026.
 
-🎓 **Computer Science** student at **Colorado Technical University**, graduating **December 2025**, with a concentration in **Cybersecurity**. Planning to enroll in an **AI/ML intensive program** in **January 2026**.
-
----
-
-## 🚀 Current Projects
-- 📊 EDA on Real-World Dataset  
-- 🔍 Regression Model for Housing Prices  
-- 🎯 Customer Segmentation with Clustering  
+I am a **Computer Science** student at **Colorado Technical University**, graduating in **December 2025** with a concentration in **Cybersecurity**. In January 2026, I plan to enroll in an AI/ML intensive program to deepen my expertise in artificial intelligence, machine learning, and data-driven technologies.
 
 ---
 
-## 🛠️ Tools
-Python • Pandas • scikit-learn • SQL • Matplotlib • Git & GitHub
+## 🚀 Current Focus
+I’m working on three foundational projects to demonstrate core data science skills:
 
-📫 https://www.linkedin.com/in/warren-judson-mcsa| wjudson@live.com
+1. **Exploratory Data Analysis (EDA)**  
+   Cleaning, analyzing, and visualizing real-world datasets using Pandas, Matplotlib, and Seaborn.
+
+2. **Predictive Modeling (Regression & Classification)**  
+   Building, tuning, and evaluating models with scikit-learn to solve practical prediction problems.
+
+3. **Clustering & Unsupervised Learning**  
+   Discovering insights in unlabeled data using algorithms like k-means and hierarchical clustering.
+
+---
+
+## 🛠️ Tools & Skills
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
+- **Environments:** Jupyter Notebook, Visual Studio Code  
+- **Version Control:** Git & GitHub
+
+---
+
+## 📌 Selected Projects (Coming Soon)
+- 📊 [EDA on Real-World Dataset](#)
+- 🔍 [Regression Model for Housing Prices](#)
+- 🎯 [Customer Segmentation with Clustering](#)
+
+---
+
+## 📫 Let’s Connect
+- LinkedIn: https://www.linkedin.com/in/warren-judson-mcsa
+- Email: wjudson@live.com
+Thanks for visiting!
 
   
 
