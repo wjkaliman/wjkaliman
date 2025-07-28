@@ -1,43 +1,22 @@
 # 👋 Hi, I'm Warren Judson
 
-I'm an aspiring **Data Scientist** focused on building practical, real-world projects using Python, machine learning, and data visualization. I'm currently building a portfolio of projects to prepare for a career in data science and machine learning in Spring 2026.
+Aspiring **Data Scientist** focused on practical, real-world projects using Python, machine learning, and data visualization. I'm currently building a portfolio in preparation for launching my career in Spring 2026.
+
+🎓 **Computer Science** student at **Colorado Technical University**, graduating **December 2025**, with a concentration in **Cybersecurity**. Planning to enroll in an **AI/ML intensive program** in **January 2026**.
 
 ---
 
-## 🚀 Current Focus
-I'm working on a series of projects to showcase core data science skills:
-
-1. **Exploratory Data Analysis (EDA)**
-   - Cleaning, exploring, and visualizing real-world datasets using pandas, matplotlib, and seaborn.
-
-2. **Predictive Modeling (Regression & Classification)**
-   - Using scikit-learn to build, tune, and evaluate models like linear regression, decision trees, and logistic regression.
-
-3. **Clustering & Unsupervised Learning**
-   - Segmenting data using k-means and hierarchical clustering to discover patterns in unlabeled datasets.
+## 🚀 Current Projects
+- 📊 EDA on Real-World Dataset  
+- 🔍 Regression Model for Housing Prices  
+- 🎯 Customer Segmentation with Clustering  
 
 ---
 
-## 🛠️ Tools & Skills
-- **Languages:** Python, SQL
-- **Libraries:** pandas, numpy, scikit-learn, matplotlib, seaborn
-- **Version Control:** Git & GitHub
-- **Other:** Jupyter Notebook, VS Code, Streamlit (upcoming)
+## 🛠️ Tools
+Python • Pandas • scikit-learn • SQL • Matplotlib • Git & GitHub
 
----
-
-## 📌 Selected Projects (Coming Soon)
-- 📊 [EDA on Real-World Dataset](#)
-- 🔍 [Regression Model for Housing Prices](#)
-- 🎯 [Customer Segmentation with Clustering](#)
-
----
-
-## 📫 Let’s Connect
-- LinkedIn: https://www.linkedin.com/in/warren-judson-mcsa/
-- Email: wjudson@live.com
-
-Thanks for visiting!
+📫 https://www.linkedin.com/in/warren-judson-mcsa| wjudson@live.com
 
   
 
