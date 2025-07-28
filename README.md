@@ -1,8 +1,44 @@
-- 👋 Hi, I’m @wjkaliman
-- 👀 I’m interested in ...Airline Data and Weather!
-- 🌱 I’m currently learning ...getting back to python and SQL. Stepped away and now let's see what I can do.
-- 💞️ I’m looking to collaborate on ...not sure yet. Honest answer.
-- 📫 How to reach me ...wjkaliman@gmail.com
+# 👋 Hi, I'm Warren Judson
+
+I'm an aspiring **Data Scientist** focused on building practical, real-world projects using Python, machine learning, and data visualization. I'm currently building a portfolio of projects to prepare for a career in data science and machine learning in Spring 2026.
+
+---
+
+## 🚀 Current Focus
+I'm working on a series of projects to showcase core data science skills:
+
+1. **Exploratory Data Analysis (EDA)**
+   - Cleaning, exploring, and visualizing real-world datasets using pandas, matplotlib, and seaborn.
+
+2. **Predictive Modeling (Regression & Classification)**
+   - Using scikit-learn to build, tune, and evaluate models like linear regression, decision trees, and logistic regression.
+
+3. **Clustering & Unsupervised Learning**
+   - Segmenting data using k-means and hierarchical clustering to discover patterns in unlabeled datasets.
+
+---
+
+## 🛠️ Tools & Skills
+- **Languages:** Python, SQL
+- **Libraries:** pandas, numpy, scikit-learn, matplotlib, seaborn
+- **Version Control:** Git & GitHub
+- **Other:** Jupyter Notebook, VS Code, Streamlit (upcoming)
+
+---
+
+## 📌 Selected Projects (Coming Soon)
+- 📊 [EDA on Real-World Dataset](#)
+- 🔍 [Regression Model for Housing Prices](#)
+- 🎯 [Customer Segmentation with Clustering](#)
+
+---
+
+## 📫 Let’s Connect
+- LinkedIn: [linkedin.com/in/warren-judson](#)
+- Email: [youremail@example.com](mailto:youremail@example.com)
+
+Thanks for visiting!
+
   
 
 <!---
