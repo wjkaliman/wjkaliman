@@ -34,7 +34,7 @@ I'm working on a series of projects to showcase core data science skills:
 ---
 
 ## 📫 Let’s Connect
-- LinkedIn: [[linkedin.com/in/warren-judson](https://www.linkedin.com/in/warren-judson-mcsa/)](#)
+- LinkedIn: linkedin.com/in/warren-judson](https://www.linkedin.com/in/warren-judson-mcsa/
 - Email: [wjudson@live.com](mailto:wjudson@live.com)
 
 Thanks for visiting!
