@@ -28,10 +28,14 @@ I’m working on three foundational projects to demonstrate core data science sk
 
 ---
 
-## 📌 Selected Projects (Coming Soon)
-- 📊 [EDA on Real-World Dataset](#)
+# 📌 Selected Projects
+
+- 📊 [EDA on Real-World Dataset](notebooks/eda_analysis.ipynb)  
+  Dataset: [Los Angeles Crime Data from 2020 to Present](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8)
+
 - 🔍 [Regression Model for Housing Prices](#)
 - 🎯 [Customer Segmentation with Clustering](#)
+
 
 ---
 
