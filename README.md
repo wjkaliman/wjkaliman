@@ -2,7 +2,7 @@
 
 I'm an aspiring **Data Scientist** passionate about solving real-world problems using Python, machine learning, and data visualization. I'm currently building a portfolio of hands-on projects to prepare for a career in data science and machine learning in Spring 2026.
 
-I am a **Computer Science** student at **Colorado Technical University**, graduating in **December 2025** with a concentration in **Cybersecurity**. In January 2026, I plan to enroll in an AI/ML intensive program to deepen my expertise in artificial intelligence, machine learning, and data-driven technologies.
+I am a **Computer Science** student at **Colorado Technical University**, graduating in **December 2025**. In January 2026, I plan to enroll in an AI/ML intensive program to deepen my expertise in artificial intelligence, machine learning, and data-driven technologies.
 
 ---
 
