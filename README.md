@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Warren Judson
 
-Aspiring Data Scientist | Hands-On EDA, Regression, & Clustering Projects | Python • Machine Learning • Data Visualization | GitHub: github.com/wjkaliman
+Aspiring Data Scientist/ Machine Leaner and AI enthusiast | Hands-On EDA, Regression, & Clustering Projects | Python • Machine Learning • Data Visualization | GitHub: github.com/wjkaliman
 
 I am a **Computer Science** student at **Colorado Technical University**, graduating in **December 2025**. In January 2026, I plan to enroll in an AI/ML intensive program to deepen my expertise in artificial intelligence, machine learning, and data-driven technologies.
 
